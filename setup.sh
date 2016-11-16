@@ -1,4 +1,4 @@
-n/sh
+#!/bin/sh
 
 if [ "$1" = "" ]
 then
